@@ -10,7 +10,7 @@ pygame.init()  # initiates pygame
 
 pygame.display.set_caption('ZASAVJE 2525')
 
-WINDOW_SIZE = (1100, 600)
+WINDOW_SIZE = (1400, 800)
 
 screen = pygame.display.set_mode(WINDOW_SIZE, 0, 32)  # initiate the window
 
