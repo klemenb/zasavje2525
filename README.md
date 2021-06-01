@@ -1,3 +1,3 @@
-# game
-game-igra nik serak
+# ZASAVJE2525
 
+School project for NPR.
